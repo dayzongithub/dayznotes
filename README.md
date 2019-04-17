@@ -45,7 +45,7 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 ### Crafting tips
 
 - You can create a campfire by combine a stick with a rag/paper/bark, lighting it with matches and feeding the fire pieces of short/large wood cut from trees with an axe/hatchet.
-- Making/using fishing net?
+- Making/using fishing net? Dunno how to use nets yet. You can craft a fishing hook from the bones of a slaughtered animal with a hunting knife.
 - Growing seeds is started by digging a growing patch with a shovel (fertile ground/compost needed?)
 
 ### Hunting tips
