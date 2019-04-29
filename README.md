@@ -13,6 +13,7 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 
 ### Water tips
 
+- Food also recovers some thirst because food has quite some water in it.
 - There's a nice accessible water pump in the villiage to the north of the south-cost military tents.
 - The village to the East of Elektro around a T split (short end towards the sea) has a police station and in front of it a water pump.
 - The village in the South-Eastern corner of the map but on a hill (not near the sea) there is a water pump in the garden of a red building.
@@ -36,6 +37,8 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 - If you're bleeding after a fight bandage yourself as quickly as possible.
 - Zombies can't seem to open doors right now. If you keep quite for about 5 minutes they will wander off and forget you're in the house.
 - For houses with multiple entrances be sure to close all doors.
+- Zombies sometimes have some loot as well.
+- Zombies are more vulnerable from the back, with some melee weapons you can even kill them in one accurate hit.
 
 ### Resource gathering tips
 
@@ -48,9 +51,11 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 ### Crafting tips
 
 - You can create a campfire by combine a stick with a rag/paper/bark, lighting it with matches and feeding the fire pieces of short/large wood cut from trees with an axe/hatchet.
-- Making/using fishing net? Dunno how to use nets yet. You can craft a fishing hook from the bones of a slaughtered animal with a hunting knife.
+- Making/using fishing net? Dunno how to use nets yet. -
+- You can craft a fishing hook from the bones of a slaughtered animal with a hunting knife.
+- You can add worms, dug up with a shovel, to the fishing hook. Haven't been able to fish yet. Maybe with sewing kit?
 - Growing seeds is started by digging a growing patch with a shovel (fertile ground/compost needed?)
 
 ### Hunting tips
-- You can't cook with just a pot an some steak. What do you need then? Campfire tripod?
+- You can't cook with just a pot an some steak. What do you need then? Campfire tripod maybe?
 
