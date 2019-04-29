@@ -7,7 +7,7 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 
 ### Night time tips
 
-- Avoid night loogin initially. The darkness is an extra difficulty in handling zombies/other players and I find it harder to manage.
+- Avoid night looting initially unless you really have to. The darkness is an extra difficulty in handling zombies/other players and I find it harder to manage. You can use the darkness to navigate (mostly safely) through the forests.
 - Do not use the emergency fire torch you will be seen from clicks away.
 - When using glowsticks be ready to drop them (default key G) and switch to melee if you need to take down a zombie
 
