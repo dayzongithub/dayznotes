@@ -23,6 +23,7 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 - Go look for water/drinks instantly.
 - Food also recovers some thirst because food has quite some water in it.
 - In forests, near trees and in sheds often there grow some eatable mushrooms ready for a quick snack. (I'm not aware of poisenous ones just yet.)
+- In the wild there roam packs of wolvles which can attack you. Be prepared with sufficient bandages/weapons/ammo/torches?? I have yet to surives wolve encounters.
 
 ### Zombie tips
 
@@ -41,6 +42,8 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 - Some bushes have tasty berries in them
 - With a shovel you can dig for worms you can eat in an emergency
 - If you dropped some stuff and it seems stuck in a tree you can cut down the tree to get it out again.
+- You can get stones using a sledgehamme (and probably pickaxe) on any big rock.
+- You can find some small stones on hiking trails.
 
 ### Crafting tips
 
@@ -49,4 +52,5 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 - Growing seeds is started by digging a growing patch with a shovel (fertile ground/compost needed?)
 
 ### Hunting tips
-- You can't cook with just a pot an some steak. What do you need then? IDK
+- You can't cook with just a pot an some steak. What do you need then? Campfire tripod?
+
