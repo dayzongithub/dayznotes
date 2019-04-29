@@ -18,6 +18,7 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 - The village to the East of Elektro around a T split (short end towards the sea) has a police station and in front of it a water pump.
 - The village in the South-Eastern corner of the map but on a hill (not near the sea) there is a water pump in the garden of a red building.
 - The tiny village a quite a bit south-east of a Big radio tower (next to a smaller one and couple of old tanks) has a water pump close to a house and a tree whith not too much zombies nearby. Neighboring village more South western (with bigger houses) has a pond.
+- Most villages seem to have a water pump, but they're not always easy to spot.
 
 ### Survival tips
 
@@ -39,11 +40,12 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 - For houses with multiple entrances be sure to close all doors.
 - Zombies sometimes have some loot as well.
 - Zombies are more vulnerable from the back, with some melee weapons you can even kill them in one accurate hit.
+- Zombies have been sighted chasing goats at high speed instead of their usual pace.
 
 ### Resource gathering tips
 
-- Some bushes have tasty berries in them
-- With a shovel you can dig for worms you can eat in an emergency
+- Some bushes have tasty berries in them once you cut them down with an axe/machete/...
+- With a shovel you can dig for worms you can eat in an emergency.
 - If you dropped some stuff and it seems stuck in a tree you can cut down the tree to get it out again.
 - You can get stones using a sledgehamme (and probably pickaxe) on any big rock.
 - You can find some small stones on hiking trails.
@@ -54,7 +56,7 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 - Making/using fishing net? Dunno how to use nets yet. -
 - You can craft a fishing hook from the bones of a slaughtered animal with a hunting knife.
 - You can add worms, dug up with a shovel, to the fishing hook. Haven't been able to fish yet. Maybe with sewing kit?
-- Growing seeds is started by digging a growing patch with a shovel (fertile ground/compost needed?)
+- Growing seeds is started by digging a growing patch with a shovel. You can find "Garden Lime" fertilizer in sheds sometimes, which can be added to the growing patch.
 
 ### Hunting tips
 - You can't cook with just a pot an some steak. What do you need then? Campfire tripod maybe?
