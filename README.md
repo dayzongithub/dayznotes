@@ -19,6 +19,8 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 - The village in the South-Eastern corner of the map but on a hill (not near the sea) there is a water pump in the garden of a red building.
 - The tiny village a quite a bit south-east of a Big radio tower (next to a smaller one and couple of old tanks) has a water pump close to a house and a tree whith not too much zombies nearby. Neighboring village more South western (with bigger houses) has a pond.
 - Most villages seem to have a water pump, but they're not always easy to spot.
+- If you really have to you can drink unfiltered/cleaned water from ponds.
+- If you have some bottle or cooking pot with you you can fill it for some thirst relief. Add some chlorine tablets ideally if you got your water from a dirty source.
 
 ### Survival tips
 
@@ -56,8 +58,18 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 - Making/using fishing net? Dunno how to use nets yet. -
 - You can craft a fishing hook from the bones of a slaughtered animal with a hunting knife.
 - You can add worms, dug up with a shovel, to the fishing hook. Haven't been able to fish yet. Maybe with sewing kit?
-- Growing seeds is started by digging a growing patch with a shovel. You can find "Garden Lime" fertilizer in sheds sometimes, which can be added to the growing patch.
+- Growing seeds is started by digging a growing patch with a shovel. Add any found seeds to it and give the patch a good bunch of water till it starts to grow. You can find "Garden Lime" fertilizer in sheds sometimes, which can be added to the growing patch for quicker/beter results probably. I've been able to grow tomatos and pumpkins in a one or two ingame days.
 
 ### Hunting tips
-- You can't cook with just a pot an some steak. What do you need then? Campfire tripod maybe?
+- You can't cook with just a pot an some steak. What do you need then? Campfire tripod? Water?
 
+### Maintenance tips.
+
+Everything wears down even your favorite gear
+- You can mend backbacks with a leather sewing kit.
+- You can fix clothes with a regular sewing kit.
+- You can clean your guns with a gun cleaning kit.
+
+### Gun tips
+- Guns are loud and will attract a lot of attention from both zombies and humans.
+- Even if you manage to find a silencer they sometimes seem bugged causing them not to work.
