@@ -51,6 +51,7 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 - If you dropped some stuff and it seems stuck in a tree you can cut down the tree to get it out again.
 - You can get stones using a sledgehamme (and probably pickaxe) on any big rock.
 - You can find some small stones on hiking trails.
+- You can get a long stick using a knife on a bush.
 
 ### Crafting tips
 
@@ -59,11 +60,13 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 - You can craft a fishing hook from the bones of a slaughtered animal with a hunting knife.
 - You can add worms, dug up with a shovel, to the fishing hook. Haven't been able to fish yet. Maybe with sewing kit?
 - Growing seeds is started by digging a growing patch with a shovel. Add any found seeds to it and give the patch a good bunch of water till it starts to grow. You can find "Garden Lime" fertilizer in sheds sometimes, which can be added to the growing patch for quicker/beter results probably. I've been able to grow tomatos and pumpkins in a one or two ingame days.
+- You can tan hides right now but can't do anything with the tanned leather yet. You need a barel, water and Garden Lime to tan.
 
 ### Hunting tips
 - You can't cook with just a pot an some steak. What do you need then? Campfire tripod? Water?
+- You can cook raw steaks using a long stick.
 
-### Maintenance tips.
+### Maintenance tips
 
 Everything wears down even your favorite gear
 - You can mend backbacks with a leather sewing kit.
@@ -73,3 +76,12 @@ Everything wears down even your favorite gear
 ### Gun tips
 - Guns are loud and will attract a lot of attention from both zombies and humans.
 - Even if you manage to find a silencer they sometimes seem bugged causing them not to work.
+
+### Car tips
+Getting all the parts to fix up a car takes a lot of effort. Teaming up with trustees is highly advised.
+- You can use the trunk of the car as a large storage.
+- You need a tire iron to put the wheels on the car.
+- Know what type of car you are fixing, each car has specific doors, trunks and wheels.
+- You need at least two jerrycans: one for fuel, one for water for the car radiator.
+- The refill interaction spots are pretty tiny pay close attention when hodling the appropriately filled jerrycan.
+- You can drive a car without it's doors.
