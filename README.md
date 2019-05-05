@@ -68,10 +68,11 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 
 ### Maintenance tips
 
-Everything wears down even your favorite gear
+Everything wears down even your favorite gear. If things get ruined they become un-repairable and you can't repair things any more beyond being worn.
 - You can mend backbacks with a leather sewing kit.
 - You can fix clothes with a regular sewing kit.
 - You can clean your guns with a gun cleaning kit.
+- You can fix your electric devices (e.g. trancievers) with an electrical repair kit
 
 ### Gun tips
 - Guns are loud and will attract a lot of attention from both zombies and humans.
@@ -85,3 +86,8 @@ Getting all the parts to fix up a car takes a lot of effort. Teaming up with tru
 - You need at least two jerrycans: one for fuel, one for water for the car radiator.
 - The refill interaction spots are pretty tiny pay close attention when hodling the appropriately filled jerrycan.
 - You can drive a car without it's doors.
+
+
+### Tool tips
+
+- Lockpick kits can lock doors but they get unlocked once the server restarts.
