@@ -92,3 +92,5 @@ Getting all the parts to fix up a car takes a lot of effort. Teaming up with tru
 ### Tool tips
 
 - Lockpick kits can lock doors but they get unlocked once the server restarts.
+- Hacksaws can be used to make small planks from large piles at lumberyards or construction sites.
+- Axes can be used to cut down trees/bushes anywhere, for fire, construction and tools.
