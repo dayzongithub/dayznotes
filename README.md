@@ -8,8 +8,9 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 ### Night time tips
 
 - Avoid night looting initially unless you really have to. The darkness is an extra difficulty in handling zombies/other players and I find it harder to manage. You can use the darkness to navigate (mostly safely) through the forests.
-- Do not use the emergency fire torch you will be seen from clicks away.
-- When using glowsticks be ready to drop them (default key G) and switch to melee if you need to take down a zombie
+- Do not use the emergency fire torch you will be seen from half a click away (litterally you can spot the it 500m away I tested that).
+- When using glowsticks be ready to drop them (default key G) and switch to melee if you need to take down a zombie (this also gives your battlefield some useful light).
+- Use the slots in combination with your ligthsource wisely. Swapping to a melee weapon can be useful to quickly dim your light but your battery will drain when your lightsource is in your backpack so don't forget to turn it off in time.
 
 ### Water tips
 
@@ -27,7 +28,7 @@ Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the
 - Go look for water/drinks instantly.
 - Food also recovers some thirst because food has quite some water in it.
 - In forests, near trees and in sheds often there grow some eatable mushrooms ready for a quick snack. (I'm not aware of poisenous ones just yet.)
-- In the wild there roam packs of wolvles which can attack you. Be prepared with sufficient bandages/weapons/ammo/torches?? I have yet to surives wolve encounters.
+- In the wild there roam packs of wolvles which can attack you. Again you'll hear them before you see them. Be prepared with sufficient bandages/weapons/ammo/torches?? ~~I have yet to surives wolve encounters.~~ When I heared howling I stayed close to buildings. Then a single wolf came to pick on some zombies, the zombies managed to kill the first wolf. After getting me some nice wolf steak and heading out a second wolf appeared, but now prepared, I quickly killed it with my revolver. I think the dead of two of theirs fended of the rest of the pack appearing. 
 
 ### Zombie tips
 
