@@ -1,7 +1,14 @@
 # dayznotes
 Some notes about my dayz standalone 1.0 gamplay I thought I'd share these on the interwebs.
 
-## muhtips
+## Prelude
+
+I don't know how many days it's been I lost count but this day is the first I'll writes something different than the practicalities below. I managed to make a friend, Horatio, many days ago. With this friend I managed to repair an old Olga car. The first time driving it was amazing. We looted many neighboring villages, had our wheels stolen and after hours upon hours of work we got everything need to repair it and drive off, to a safer location, we thought. Even trying to protect our valuable asset there is only so much you can do to prevent thieves from stealing a car without any locks. We were still building  It's gone now. A loss, for me and Horatio. A loss in an already barren land, we managed to survive somehow this virus but a car couldn't last. The survivors are almost as cruel to eachother as the zombies (can zombies drive a car? I suspect not but after seeing them chasing goats and killing a wolf I'm not sure anymore).
+
+I'm looking over the city now, hoping for a trace of the car. I haven't seen Horatio in a while, he said he'd be back and not drive off without me, I hope he will be back and went to explore. But I'm afraid it's only that, hope.
+
+
+## Muhtips
 
 ### Day time tips
 
