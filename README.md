@@ -81,6 +81,7 @@ Everything wears down even your favorite gear. If things get ruined they become 
 - You can fix clothes with a regular sewing kit.
 - You can clean your guns with a gun cleaning kit.
 - You can fix your electric devices (e.g. trancievers) with an electrical repair kit
+- You can fix a lot of stuff with trusty ol' duct-tape.
 
 ### Gun tips
 - Guns are loud and will attract a lot of attention from both zombies and humans.
